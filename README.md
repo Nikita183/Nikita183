@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nikita183
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Btech
-- 💞️ I’m looking to collaborate on Python
+- 👀 I’m interested in Java
+- 🌱 Btech Graduate 2023
+- 💞️ I’m looking to collaborate on Java
 - 📫 How to reach me nikitasahu34567@gmail.com
 
 <!---
